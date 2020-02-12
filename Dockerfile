@@ -45,3 +45,4 @@ RUN wget https://account.wolfram.com/download/public/wolfram-engine/desktop/LINU
 # CMD ["/usr/bin/wolframscript"]
 
 CMD ["/usr/sbin/sshd", "-D"]
+
